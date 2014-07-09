@@ -2,10 +2,3 @@ language: node_js
 node_js:
 - '0.11'
 - '0.10'
-deploy:
-  provider: heroku
-  api_key:
-    secure: IjDNi1W7VHAxuGv3Kbva1yTDuK80MUOeZTfyB2yehEvTdlP/IN5I8zEmX6rW9mz8IT0Deiy2nNrdqZrNejS3jRjq5D2Sz9BM6AMrl+l/4DoOY344yvHEVpRdRCEHhsNSVy2/ukoy0h1r6XrcVCT09DSCsd+2ts9gJnQKyRlGKjQ=
-  app: agile-journey-5541
-  on:
-    repo: orchestrate-io/twittercat
