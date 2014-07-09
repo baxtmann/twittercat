@@ -173,6 +173,6 @@ All through the making of the twittercat, I've been awwww-ing at my automated pe
 
 ## License
 
-[ISC][], yo.
+[ASLv2][license], yo.
 
-[ISC]: http://opensource.org/licenses/ISC
+[license]: http://www.apache.org/licenses/LICENSE-2.0

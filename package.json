@@ -8,7 +8,7 @@
     "test": "./node_modules/.bin/jshint lib bin index.js"
   },
   "author": "Max Thayer <garbados@gmail.com",
-  "license": "ISC",
+  "license": "ASLv2",
   "dependencies": {
     "kew": "^0.4.0",
     "orchestrate": "^0.1.2",
