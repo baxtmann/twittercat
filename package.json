@@ -1,0 +1,18 @@
+{
+  "name": "twittercat",
+  "version": "0.0.0",
+  "description": "Meow meow Twitter cat~",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "./node_modules/.bin/jshint lib bin index.js"
+  },
+  "author": "Max Thayer <garbados@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.5.1",
+    "kew": "^0.4.0",
+    "orchestrate": "^0.1.2",
+    "twit": "^1.1.15"
+  }
+}
