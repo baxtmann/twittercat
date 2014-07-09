@@ -173,6 +173,6 @@ All through the making of the twittercat, I've been awwww-ing at my automated pe
 
 ## License
 
-[MIT][], yo.
+[ISC][], yo.
 
-[MIT]: http://opensource.org/licenses/MIT
+[ISC]: http://opensource.org/licenses/ISC
